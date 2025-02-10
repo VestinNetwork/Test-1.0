@@ -1,1 +1,2 @@
-# Test-1.0
+git clone https://github.com/USERNAME/AIVEX-DEX.git
+cd AIVEX-DEX
